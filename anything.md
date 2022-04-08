@@ -1,7 +1,7 @@
 *Italic* _Italic_
 **Bold** __Bold__
 # Heading 1
-## Heading 2
+## NEW HEADING 2 HAHA
 >Blockquote
 Horizontal rule:
 blah blah horizontal?
@@ -12,6 +12,7 @@ blah blah horizontal?
 1. one
 2. two
 3. three
+4. CHANGED AHAH
 4. four
 `inline code blah e=mc2`
 # code block
