@@ -5,3 +5,15 @@
 >Blockquote
 Horizontal rule:
 blah blah horizontal?
+[ytlink](youtube.com)
+![pictureofshrek](https://static.wikia.nocookie.net/shrek/images/9/9b/GoodShrekImage.png/revision/latest?cb=20201220080410)
+*item 1 list
+*item 2 list
+1. one
+2. two
+3. three
+4. four
+`inline code blah e=mc2`
+# code block
+print hello world
+haha lol
