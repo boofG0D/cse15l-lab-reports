@@ -71,3 +71,4 @@ After you do this, logging into your account should look something like this:
 
 ### Now that we've optimized signing in, let's try to optimize signing in, changing a file, and saving it all at once.
 
+Using SSH Keys can save you a lot of time when it comes to copying over and resaving a file remotely between two machines. Over 100 edits, it can save you almost two hours. 
