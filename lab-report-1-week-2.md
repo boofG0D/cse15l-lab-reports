@@ -71,4 +71,13 @@ After you do this, logging into your account should look something like this:
 
 ### Now that we've optimized signing in, let's try to optimize signing in, changing a file, and saving it all at once.
 
+We can do this by using all of the commands at once, separated by semicolons. Essentially this command is 
+
+`% ssh (your login) "javac (filename).java; java (filename)"`
+
+The result of this is demonstrated below.
+
+![shortcutIMG](./shortcut.png)
+
+
 Using SSH Keys can save you a lot of time when it comes to copying over and resaving a file remotely between two machines. Over 100 edits, it can save you almost two hours. 
