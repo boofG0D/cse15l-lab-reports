@@ -8,4 +8,4 @@
 
 *[LabReport4](lab-report-4-week-8.html)*
 
-*[lab-report-5-week-10.html](https://michaelndiaz.github.io/cse15l-lab-reports/lab-report-5-week-10)*
+*[lab-report-5-week-10](https://michaelndiaz.github.io/cse15l-lab-reports/lab-report-5-week-10)*
