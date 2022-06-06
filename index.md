@@ -6,4 +6,6 @@
 
 *[LabReport3](lab-report-3-week-6.html)*
 
-*[Lab Report4](lab-report-4-week-8.html)*
+*[LabReport4](lab-report-4-week-8.html)*
+
+*[LabReport5](lab-report-5-week-10.html)*
