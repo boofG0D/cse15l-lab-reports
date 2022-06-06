@@ -5,3 +5,5 @@
 *[LabReport2](lab-report-2-week-4.html)*
 
 *[LabReport3](lab-report-3-week-6.html)*
+
+*[Lab Report4](lab-report-4-week-8.html)*
